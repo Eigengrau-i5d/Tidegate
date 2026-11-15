@@ -1,0 +1,19 @@
+{
+  "name": "Tidegate",
+  "short_name": "Tidegate",
+  "description": "Paddle route planner for New Zealand waters: routes around land and times trips by tide, current, wind and waves. Planning aid only, not for navigation.",
+  "id": "/Tidegate/",
+  "start_url": "/Tidegate/",
+  "scope": "/Tidegate/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f1a24",
+  "theme_color": "#0f1a24",
+  "lang": "en-NZ",
+  "categories": ["navigation", "sports", "weather"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
